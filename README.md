@@ -40,9 +40,3 @@ By Excellent1212
 - Babel
 - react-materialize
 - json-server
-
-
-
-## This software is licensed under the MIT license.
-
-*Copyright (c) 2018 Adrianacmy*
